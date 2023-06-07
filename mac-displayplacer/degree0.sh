@@ -1,0 +1,1 @@
+displayplacer "id:A638CF3B-331A-A85F-7638-83D9F05B6201 res:1920x1200 hz:60 color_depth:8 enabled:true scaling:off origin:(0,0) degree:0"
